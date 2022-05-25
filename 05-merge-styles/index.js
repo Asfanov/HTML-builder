@@ -50,9 +50,4 @@ function copyContent(i) {
             })
         }
     })
-
-  
-
-  
-
 }
